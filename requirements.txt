@@ -1,2 +1,4 @@
-pint
+pint==0.9
 adce
+cvxopt
+numpy
